@@ -6,7 +6,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 
 __version__ = "0.0.5"
 REPO_NAME = "Database_connector"
-PKG_NAME = "database_automation"
+PKG_NAME = "ALLDatabase_connector"
 AUTHOR_USER_NAME = "Nishu13"
 AUTHOR_EMAIL = "nishanka1304@gmail.com"
 
