@@ -34,4 +34,5 @@ for filepath in list_of_files:
         # Open the file with 'w' mode to write content to it
         with open(filepath, 'w') as f:
             # Write some content to the file (e.g., 'Hello, world!')
-            f.write("Hello, world!")
+            pass
+
