@@ -1,1 +1,2 @@
-Hello, world!
+def test_empty():
+    assert True

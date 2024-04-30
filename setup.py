@@ -4,9 +4,9 @@ from typing import List
 with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()
 
-__version__ = "0.0.4"
+__version__ = "0.0.5"
 REPO_NAME = "Database_connector"
-PKG_NAME = "databaseautomation"
+PKG_NAME = "database_automation"
 AUTHOR_USER_NAME = "Nishu13"
 AUTHOR_EMAIL = "nishanka1304@gmail.com"
 
