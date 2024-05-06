@@ -105,6 +105,7 @@ class MySQLOperation:
 
 
 from cassandra.cluster import Cluster
+import numpy as np
 
 
 class CassandraOperation:
@@ -127,5 +128,3 @@ class CassandraOperation:
     def close_connection(self):
         self.session.shutdown()
         self.cluster.shutdown()
-
-
