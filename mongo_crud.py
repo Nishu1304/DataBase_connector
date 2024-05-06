@@ -127,3 +127,5 @@ class CassandraOperation:
     def close_connection(self):
         self.session.shutdown()
         self.cluster.shutdown()
+
+
